@@ -1,6 +1,7 @@
 # T-Embed CC1101 plus External Antenna Mod
 
 This project documents a hardware modification for the LilyGo T-Embed CC1101 plus to replace the stock internal antennas with high-gain external antennas. This modification significantly improves signal range and stability for both LoRa/Sub-GHz (915MHz) and Wi-Fi/Bluetooth (2.4GHz) communications.
+!!!DO NOT POWER ON WHILE DOING THIS MODIFICATION UNTIL ANNTENNAS ARE ATTACHED!!!
 
 ## 📸 The Finished Mod
 ![Front View](front-view.jpg)
@@ -56,7 +57,7 @@ This modified T-Embed serves as a **Universal Long-Range Production Controller**
 * **Consolidation:** The rotary encoder is ideal for fine-tuning variables (e.g., dimming lights, adjusting fan speeds for wind effects) without needing to look down at a touchscreen, while the display provides feedback on current settings.
 * **Reliability:** By upgrading to external antennas, this device allows for the use of **915MHz LoRa** for critical "GO" triggers. This frequency punches through set walls and ignores the 2.4GHz noise floor that plagues standard Wi-Fi equipment.
 * **Range:** The high-gain antennas allow the controller to operate from "Video Village" or off-camera positions that are hundreds of feet away from the practical effects being triggered.
----
+---real world use videos and documention of installation comming soon
 *Created by [jamiemadde-max]*
 ---
 iatse member
