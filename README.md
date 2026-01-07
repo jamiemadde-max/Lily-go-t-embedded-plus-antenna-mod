@@ -44,9 +44,10 @@ Remove the rear cover to access the internal components. Be careful with the bat
 ![Internal View](internal-view.jpg)
 
 ### Step 2: Case Modification
-1.  Mark three evenly spaced points on the top plastic rim of the T-Embed case.
+1.  Mark three evenly spaced points on the top plastic rim of the T-Embed case.(I suggest keeping the 2.4ghz together to stop interference)
 2.  Drill holes sized to fit the SMA connectors (usually 6mm or 1/4").
-3.  Ensure there is clearance inside the case for the connector barrels so they don't crush the PCB.
+3.  Ensure there is clearance inside the case for the connector barrels so they don't crush the PCB.(dont use a big drill use a dremel)
+
 
 ### Step 3: Wiring
 1.  **LoRa (915MHz):** Locate the U.FL connector on the CC1101 module (the smaller daughterboard) and connect one pigtail.
