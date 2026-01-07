@@ -31,6 +31,11 @@ This project documents a hardware modification for the LilyGo T-Embed CC1101 plu
 **3. Internal Connectors (Crucial)**
 * **U.FL to SMA Female Pigtails (Qty: 3):** These are required to connect the board's internal U.FL ports to the external antennas. *Ensure the cable length is short (approx 5-10cm) to fit inside the case.*
 
+**4.firmware **
+currently testing with the /brucefirmware
+but have plans to develop my own 
+
+
 ## ⚙️ Installation Guide
 
 ### Step 1: Disassembly
