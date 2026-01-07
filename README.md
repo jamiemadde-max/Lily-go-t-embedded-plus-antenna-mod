@@ -10,6 +10,7 @@ Top profile showing the custom mounting points.*
 
 
 front profile finished mod
+/front-view.jpg
 
 
 
