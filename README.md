@@ -1,60 +1,61 @@
+# T-Embed CC1101 Plus — External Antenna Mod
 
-Instructions for antenna mod
-# T-Embed CC1101 plus External Antenna Mod
+This repo documents a hardware modification for the LilyGo T-Embed CC1101 Plus to replace the stock internal antennas with high‑gain external antennas. The mod improves signal strength and allows easy antenna swapping for different use cases.
 
-This project documents a hardware modification for the LilyGo T-Embed CC1101 plus to replace the stock internal antennas with high-gain external antennas. This modification significantly improves signal range and stability for both LoRa/Sub-GHz (915MHz) and Wi-Fi/Bluetooth (2.4GHz) communications.
+## 📸 Finished mod
 
-## 📸 The Finished Mod
-Top profile showing the custom mounting points.*
-(top-view.jpg)
+<p align="center">
+  <img src="./images/top-view.jpg" alt="Top profile showing custom mounting points" width="640" />
+</p>
 
+*Figure 1 — Top profile showing the custom mounting points.*
 
-front profile finished mod
-(front-view.jpg)
+<p align="center">
+  <img src="./images/front-view.jpg" alt="Front profile of the finished mod" width="640" />
+</p>
 
+*Figure 2 — Front profile of the finished mod.*
 
+<p align="center">
+  <img src="./images/internal-view.jpg" alt="Internal view after disassembly" width="640" />
+</p>
 
+*Figure 3 — Internal view after disassembly.*
 
-## 🛠 Hardware Required
+## 🛠 Hardware required
 
-**1. The Device**
-* **LilyGo T-Embed CC1101 puls** (LoRa Version)
+- LilyGo T-Embed CC1101 Plus (LoRa version)
+- 2 × 2.4 GHz high-gain antennas (Wi‑Fi / BT)
+  - Example: [Amazon link](https://a.co/d/5IQl2xi)
+- 1 × 915 MHz high-gain antenna (LoRa / Meshtastic)
+  - Example: [Amazon link](https://a.co/d/8Ta44NI)
+- 3 × U.FL to SMA female pigtails (short length ≈ 5–10 cm)
+- Nuts, washers, and basic tools (drill, small driver)
 
-**2. Antennas**
-* **2.4GHz High Gain Antennas (Qty: 2):** Used for Wi-Fi and Bluetooth.
-    * [Link to Amazon Product](https://a.co/d/5IQl2xi)
-* **915MHz High Gain Antenna (Qty: 1):** Used for LoRa/Meshtastic communication.
-    * [Link to Amazon Product](https://a.co/d/8Ta44NI)
+## ⚙️ Installation
 
-**3. Internal Connectors (Crucial)**
-* **U.FL to SMA Female Pigtails (Qty: 3):** These are required to connect the board's internal U.FL ports to the external antennas. *Ensure the cable length is short (approx 5-10cm) to fit inside the case.*
+1. Disassembly  
+   - Remove rear cover screws and carefully unplug battery wires and the FPC ribbon for the screen/dial.
 
-## ⚙️ Installation Guide
+2. Case modification  
+   - Mark three evenly spaced holes on the top rim.  
+   - Drill holes sized for the SMA connector barrels (≈ 6 mm / 1/4").  
+   - Verify clearance so connector barrels won't press on the PCB.
 
-### Step 1: Disassembly
-Remove the rear cover screws to access the internal components. Be careful with the battery wires and the FPC ribbon cable connecting the screen/dial.
+3. Wiring  
+   - LoRa (915 MHz): attach a pigtail to the CC1101 module U.FL.  
+   - Wi‑Fi / BT (2.4 GHz): attach pigtail to the ESP32 U.FL and remove the stock flex antenna.  
+   - Mount SMA connectors and secure with nuts/washers.
 
-(Internal-View.jpg)
-
-
-
-
-### Step 2: Case Modification
-1.  Mark three evenly spaced points on the top plastic rim of the T-Embed case.
-2.  Drill holes sized to fit the SMA connectors (usually 6mm or 1/4").
-3.  Ensure there is clearance inside the case for the connector barrels so they don't crush the PCB.
-
-### Step 3: Wiring
-1.  *lora (915MHz):** Locate the U.FL connector on the CC1101 module (the smaller daughterboard) and connect one pigtail.
-2.  **Wi-Fi/BT (2.4GHz):** Locate the ESP32 U.FL connector on the main PCB. Disconnect the stock internal flex antenna and connect the new pigtail.
-3.  **Mounting:** Secure the SMA connectors to the drilled holes using the nuts and washers provided with your pigtails.
-
-### Step 4: Reassembly
-Route the cables carefully around the battery to ensure the case closes flush. Screw the back cover back on and attach your antennas.
+4. Reassembly  
+   - Route cables around the battery so the case closes flush, reattach the back cover, and install antennas.
 
 ## 🚀 Results
-* **Signal Strength:** Significant dB gain over stock internal FPC antennas.
-* **Versatility:** Allows for swapping antennas based on use case (e.g., directional vs. omnidirectional).
 
+- Noticeable increase in received/transmit signal (dB gain) over stock flex antennas.  
+- Flexible antenna choices (omnidirectional, high-gain, directional) for different environments.
+
+jamiemadde-max
 ---
+
 *Created by jamiemadde-max*
