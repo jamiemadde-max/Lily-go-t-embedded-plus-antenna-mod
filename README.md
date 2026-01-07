@@ -5,12 +5,13 @@ Instructions for antenna mod
 This project documents a hardware modification for the LilyGo T-Embed CC1101 plus to replace the stock internal antennas with high-gain external antennas. This modification significantly improves signal range and stability for both LoRa/Sub-GHz (915MHz) and Wi-Fi/Bluetooth (2.4GHz) communications.
 
 ## 📸 The Finished Mod
-[
+Top profile showing the custom mounting points.*
 
-)*Front view showing the triple antenna setup.*
 
-![Top View](top-view.jpg)
-*Top profile showing the custom mounting points.*
+
+front profile finished mod
+
+https://photos.app.goo.gl/DrtLG8XFJW3mD54u9
 
 ## 🛠 Hardware Required
 
@@ -31,7 +32,9 @@ This project documents a hardware modification for the LilyGo T-Embed CC1101 plu
 ### Step 1: Disassembly
 Remove the rear cover screws to access the internal components. Be careful with the battery wires and the FPC ribbon cable connecting the screen/dial.
 
-![Internal View](path/to/your/internal-view.jpg)
+![Internal View]
+https://photos.app.goo.gl/4Z5F2JLceoUnnTqn9
+
 
 ### Step 2: Case Modification
 1.  Mark three evenly spaced points on the top plastic rim of the T-Embed case.
