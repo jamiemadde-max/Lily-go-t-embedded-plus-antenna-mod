@@ -2,12 +2,12 @@
 
 This project documents a hardware modification for the LilyGo T-Embed CC1101 plus to replace the stock internal antennas with high-gain external antennas. This modification significantly improves signal range and stability for both LoRa/Sub-GHz (915MHz) and Wi-Fi/Bluetooth (2.4GHz) communications.
 
+---
 
 
+**!!!DO NOT POWER ON WHILE DOING THIS MODIFICATION UNTIL ANNTENNAS ARE ATTACHED!!!**
 
-!!!DO NOT POWER ON WHILE DOING THIS MODIFICATION UNTIL ANNTENNAS ARE ATTACHED!!!
-
-
+---
 
 
 ## 📸 The Finished Mod
