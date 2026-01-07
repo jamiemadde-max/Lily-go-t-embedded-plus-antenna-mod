@@ -5,7 +5,7 @@ This project documents a hardware modification for the LilyGo T-Embed CC1101 plu
 ---
 
 
-**!!!DO NOT POWER ON WHILE DOING THIS MODIFICATION UNTIL ANNTENNAS ARE ATTACHED!!!**
+** *!DO NOT POWER ON WHILE DOING THIS MODIFICATION UNTIL ANNTENNAS ARE ATTACHED!* **
 
 ---
 
