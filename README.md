@@ -73,7 +73,7 @@ This modified T-Embed serves as a **Universal Long-Range Production Controller**
 * **Range:** The high-gain antennas allow the controller to operate from "Video Village" or off-camera positions that are hundreds of feet away from the practical effects being triggered.
 * 
 ---
-real world use videos and documention of installation comming soon
+real world use videos and documentation of installation coming soon
 ---
 
 
