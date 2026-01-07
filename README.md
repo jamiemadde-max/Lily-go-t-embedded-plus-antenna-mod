@@ -1,8 +1,8 @@
 # Lily-go-t-embedded-plus-antenna-mod
 Instructions for antenna mod
-# T-Embed CC1101 External Antenna Mod
+# T-Embed CC1101 plus External Antenna Mod
 
-This project documents a hardware modification for the LilyGo T-Embed CC1101 to replace the stock internal antennas with high-gain external antennas. This modification significantly improves signal range and stability for both LoRa/Sub-GHz (915MHz) and Wi-Fi/Bluetooth (2.4GHz) communications.
+This project documents a hardware modification for the LilyGo T-Embed CC1101 plus to replace the stock internal antennas with high-gain external antennas. This modification significantly improves signal range and stability for both LoRa/Sub-GHz (915MHz) and Wi-Fi/Bluetooth (2.4GHz) communications.
 
 ## 📸 The Finished Mod
 ![Front View](path/to/your/front-photo.jpg)
@@ -14,7 +14,7 @@ This project documents a hardware modification for the LilyGo T-Embed CC1101 to 
 ## 🛠 Hardware Required
 
 **1. The Device**
-* **LilyGo T-Embed CC1101** (LoRa Version)
+* **LilyGo T-Embed CC1101 puls** (LoRa Version)
 
 **2. Antennas**
 * **2.4GHz High Gain Antennas (Qty: 2):** Used for Wi-Fi and Bluetooth.
@@ -38,7 +38,7 @@ Remove the rear cover screws to access the internal components. Be careful with 
 3.  Ensure there is clearance inside the case for the connector barrels so they don't crush the PCB.
 
 ### Step 3: Wiring
-1.  **LoRa (915MHz):** Locate the U.FL connector on the CC1101 module (the smaller daughterboard) and connect one pigtail.
+1.  *lora (915MHz):** Locate the U.FL connector on the CC1101 module (the smaller daughterboard) and connect one pigtail.
 2.  **Wi-Fi/BT (2.4GHz):** Locate the ESP32 U.FL connector on the main PCB. Disconnect the stock internal flex antenna and connect the new pigtail.
 3.  **Mounting:** Secure the SMA connectors to the drilled holes using the nuts and washers provided with your pigtails.
 
