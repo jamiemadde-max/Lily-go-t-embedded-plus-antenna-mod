@@ -33,9 +33,11 @@ This project documents a hardware modification for the LilyGo T-Embed CC1101 plu
 ---
 
 **optional firmware **
-
-*currently testing with the /brucefirmware
-but have plans to develop my own 
+---
+*currently testing with the /bruce1.13
+but have plans to develop my own os to see info about bruce firmware please see the /brucefirmware git hub page 
+---
+---
 
 
 ## ⚙️ Installation Guide
@@ -62,7 +64,7 @@ Route the cables carefully around the battery to ensure the case closes flush. S
 
 * **Signal Strength:** Significant dB gain over stock internal FPC antennas.
 
-* **Versatility:** Allows for swapping antennas based on use case (e.g., directional vs. omnidirectional).
+* **Versatility:** Allows for swapping antennas based on use case (e.g., directional vs. omnidirectional,different lengths for range capabilities).
 
 
 ## 🎬 Real-World Application: Film & TV Production
@@ -80,11 +82,15 @@ This modified T-Embed serves as a **Universal Long-Range Production Controller**
 * **Range:** The high-gain antennas allow the controller to operate from "Video Village" or off-camera positions that are hundreds of feet away from the practical effects being triggered.
 * 
 ---
-real world use videos and documentation of installation coming soon
+[real world use videos and step by step video documentation of installation coming soon]
 ---
 
 
 *Created by [jamiemadde-max]*
+---
+
+for TV and film use .
+
 
 
 
