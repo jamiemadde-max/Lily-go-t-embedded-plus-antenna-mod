@@ -21,6 +21,7 @@ This project documents a hardware modification for the LilyGo T-Embed CC1101 plu
 
 **1. The Device**
 * **LilyGo T-Embed CC1101** (plus Version)
+https://www.lilygo.cc/products/t-embed-cc1101-plus?bg_ref=jQeRpxT55e
 
 **2. Antennas**
 * **2.4GHz High Gain Antennas (Qty: 2):** Used for Wi-Fi and Bluetooth.
