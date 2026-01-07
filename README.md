@@ -1,23 +1,23 @@
 # T-Embed CC1101 Plus — External Antenna Mod
 
-This repo documents a hardware modification for the LilyGo T-Embed CC1101 Plus to replace the stock internal antennas with high‑gain external antennas. The mod improves signal strength and allows easy antenna swapping for different use cases.
+This repo documents a hardware modification for the LilyGo T-Embed CC1101 Plus to replace the stock internal antennas with high‑gain external antennas. The mod improves signal strength and allows ea[...] 
 
 ## 📸 Finished mod
 
 <p align="center">
-  <img src="./images/top-view.jpg" alt="Top profile showing custom mounting points" width="640" />
+  <img src="https://raw.githubusercontent.com/jamiemadde-max/Lily-go-t-embedded-plus-antenna-mod/main/images/top-view.jpg" alt="Top profile showing custom mounting points" width="640" />
 </p>
 
 *Figure 1 — Top profile showing the custom mounting points.*
 
 <p align="center">
-  <img src="./images/front-view.jpg" alt="Front profile of the finished mod" width="640" />
+  <img src="https://raw.githubusercontent.com/jamiemadde-max/Lily-go-t-embedded-plus-antenna-mod/main/images/front-view.jpg" alt="Front profile of the finished mod" width="640" />
 </p>
 
 *Figure 2 — Front profile of the finished mod.*
 
 <p align="center">
-  <img src="./images/internal-view.jpg" alt="Internal view after disassembly" width="640" />
+  <img src="https://raw.githubusercontent.com/jamiemadde-max/Lily-go-t-embedded-plus-antenna-mod/main/images/internal-view.jpg" alt="Internal view after disassembly" width="640" />
 </p>
 
 *Figure 3 — Internal view after disassembly.*
