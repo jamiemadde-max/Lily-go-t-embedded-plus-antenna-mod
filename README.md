@@ -81,8 +81,10 @@ This modified T-Embed serves as a **Universal Long-Range Production Controller**
 * 
 ---
 [real world use videos and step by step video documentation of installation coming soon]
----
 
+**[(future versions hope to include lora[meshtastic]
+for seamless onset communication)]**
+---
 
 *Created by [jamiemadde-max]*
 ---
