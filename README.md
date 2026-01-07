@@ -1,7 +1,14 @@
 # T-Embed CC1101 plus External Antenna Mod
 
 This project documents a hardware modification for the LilyGo T-Embed CC1101 plus to replace the stock internal antennas with high-gain external antennas. This modification significantly improves signal range and stability for both LoRa/Sub-GHz (915MHz) and Wi-Fi/Bluetooth (2.4GHz) communications.
+
+
+
+
 !!!DO NOT POWER ON WHILE DOING THIS MODIFICATION UNTIL ANNTENNAS ARE ATTACHED!!!
+
+
+
 
 ## 📸 The Finished Mod
 ![Front View](front-view.jpg)
@@ -27,7 +34,7 @@ This project documents a hardware modification for the LilyGo T-Embed CC1101 plu
 ## ⚙️ Installation Guide
 
 ### Step 1: Disassembly
-Remove the rear cover screws to access the internal components. Be careful with the battery wires and the FPC ribbon cable connecting the screen/dial.
+Remove the rear cover to access the internal components. Be careful with the battery wires and the FPC ribbon cable connecting the screen/dial.
 
 ![Internal View](internal-view.jpg)
 
@@ -42,7 +49,7 @@ Remove the rear cover screws to access the internal components. Be careful with 
 3.  **Mounting:** Secure the SMA connectors to the drilled holes using the nuts and washers provided with your pigtails.
 
 ### Step 4: Reassembly
-Route the cables carefully around the battery to ensure the case closes flush. Screw the back cover back on and attach your antennas.
+Route the cables carefully around the battery to ensure the case closes flush. Screw the back cover back on and attach your antennas or just use the magnets attached.
 
 ## 🚀 Results
 * **Signal Strength:** Significant dB gain over stock internal FPC antennas.
@@ -61,5 +68,5 @@ This modified T-Embed serves as a **Universal Long-Range Production Controller**
 *Created by [jamiemadde-max]*
 ---
 iatse member
+say hi if you see this
 
-*Created by jamiemadde-max*
