@@ -30,13 +30,9 @@ This project documents a hardware modification for the LilyGo T-Embed CC1101 plu
 
 **3. Internal Connectors (Crucial)**
 * **U.FL to SMA Female Pigtails (Qty: 3):** These are required to connect the board's internal U.FL ports to the external antennas. *Ensure the cable length is short (approx 5-10cm) to fit inside the case.*
----
 
-**optional firmware **
----
-*currently testing with the /bruce1.13
-but have plans to develop my own os to see info about bruce firmware please see the /brucefirmware git hub page 
----
+
+
 ---
 
 
@@ -89,7 +85,27 @@ This modified T-Embed serves as a **Universal Long-Range Production Controller**
 *Created by [jamiemadde-max]*
 ---
 
+
+
+
+**optional firmware **
+
+*currently testing with the /bruce1.13
+but have plans to develop my own os to see info about bruce firmware please see the /brucefirmware git hub page 
+
+
+
+
+
+
 for TV and film use .
+
+
+
+
+
+
+
 
 
 
