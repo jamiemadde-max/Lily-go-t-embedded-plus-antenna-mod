@@ -14,6 +14,7 @@ front profile finished mod
 
 
 
+
 ## 🛠 Hardware Required
 
 **1. The Device**
@@ -33,7 +34,7 @@ front profile finished mod
 ### Step 1: Disassembly
 Remove the rear cover screws to access the internal components. Be careful with the battery wires and the FPC ribbon cable connecting the screen/dial.
 
-![Internal-View.jpg\]
+(Internal-View.jpg)
 
 
 
