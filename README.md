@@ -70,7 +70,10 @@ This modified T-Embed serves as a **Universal Long-Range Production Controller**
 
 * **Reliability:** By upgrading to external antennas, this device allows for the use of **915MHz LoRa** for critical "GO" triggers. This frequency punches through set walls and ignores the 2.4GHz noise floor that plagues standard Wi-Fi equipment.
 
-* **Range:** The high-gain antennas allow the controller to operate from "Video Village" or off-camera positions that are hundreds of feet away from the practical effects being triggered.real world use videos and documention of installation comming soon
+* **Range:** The high-gain antennas allow the controller to operate from "Video Village" or off-camera positions that are hundreds of feet away from the practical effects being triggered.
+* 
+---
+real world use videos and documention of installation comming soon
 ---
 
 
