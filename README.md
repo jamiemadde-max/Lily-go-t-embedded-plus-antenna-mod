@@ -1,4 +1,4 @@
-8# Lily-go-t-embedded-plus-antenna-mod
+
 Instructions for antenna mod
 # T-Embed CC1101 plus External Antenna Mod
 
