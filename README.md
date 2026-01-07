@@ -11,7 +11,7 @@ Top profile showing the custom mounting points.*
 
 front profile finished mod
 
-https://photos.app.goo.gl/DrtLG8XFJW3mD54u9
+
 
 ## 🛠 Hardware Required
 
@@ -33,7 +33,8 @@ https://photos.app.goo.gl/DrtLG8XFJW3mD54u9
 Remove the rear cover screws to access the internal components. Be careful with the battery wires and the FPC ribbon cable connecting the screen/dial.
 
 ![Internal View]
-https://photos.app.goo.gl/4Z5F2JLceoUnnTqn9
+
+
 
 
 ### Step 2: Case Modification
