@@ -106,24 +106,6 @@ This modified T-Embed serves as a **Universal Long-Range Production Controller**
 
 
 
-## 🎬 Real-World Application: Film & TV Production
-
-**The Problem**
-Modern film sets are cluttered with dozens of proprietary wireless remotes for different departments: lighting (DMX), practical effects (fog machines, rain rigs, pyrotechnics), and motion control systems. Furthermore, sound stages are often RF-hostile environments saturated with 2.4GHz interference, making standard internal antennas unreliable for critical cues.
-
-**The Solution**
-This modified T-Embed serves as a **Universal Long-Range Production Controller**.
-
-* **Consolidation:** The rotary encoder is ideal for fine-tuning variables (e.g., dimming lights, adjusting fan speeds for wind effects) without needing to look down at a touchscreen, while the display provides feedback on current settings.
-
-* **Reliability:** By upgrading to external antennas, this device allows for the use of **915MHz LoRa** for critical "GO" triggers. This frequency punches through set walls and ignores the 2.4GHz noise floor that plagues standard Wi-Fi equipment.
-
-* **Range:** The high-gain antennas allow the controller to operate from "Video Village" or off-camera positions that are hundreds of feet away from the practical effects being triggered.
-* 
----
-
-
-
 
 
 
