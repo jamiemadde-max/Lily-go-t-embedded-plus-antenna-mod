@@ -57,6 +57,10 @@ Remove the rear cover to access the internal components. Be careful with the bat
 ![2.4ghz-connection](2.4ghz-connection.jpg)
 ![2.4ghz-connection](2.4ghzconnecton-1.jpg)
 ![rf-connection](Rf-conection.jpg)
+
+*note only the rf is labeled so reconnecting is a breeze
+
+
 ### Step 4: Reassembly
 Route the cables carefully around the battery to ensure the case closes flush. Screw the back cover back on and attach your antennas or just use the magnets attached.
 
