@@ -43,9 +43,7 @@ https://www.lilygo.cc/products/t-embed-cc1101-plus?bg_ref=jQeRpxT55e
 Remove the rear cover to access the internal components. Be careful with the battery wires and the FPC ribbon cable connecting the screen/dial.
 
 ![Internal View](internal-view.jpg)
-![2.4ghz-connection](2.4ghz-connection.jpg)
-![2.4ghz-connection](2.4ghzconnecton-1.jpg)
-![rf-connection](Rf-conection.jpg)
+
 ### Step 2: Case Modification
 1.  Mark three evenly spaced points on the top plastic rim of the T-Embed case.(I suggest keeping the 2.4ghz together to stop interference)
 2.  Drill holes sized to fit the SMA connectors (usually 6mm or 1/4").
@@ -56,7 +54,9 @@ Remove the rear cover to access the internal components. Be careful with the bat
 1.  **LoRa (915MHz):** Locate the U.FL connector on the CC1101 module (the smaller daughterboard) and connect one pigtail.
 2.  **Wi-Fi/BT (2.4GHz):** Locate the ESP32 U.FL connector on the main PCB. Disconnect the stock internal flex antenna and connect the new pigtail.
 3.  **Mounting:** Secure the SMA connectors to the drilled holes using the nuts and washers provided with your pigtails.
-
+![2.4ghz-connection](2.4ghz-connection.jpg)
+![2.4ghz-connection](2.4ghzconnecton-1.jpg)
+![rf-connection](Rf-conection.jpg)
 ### Step 4: Reassembly
 Route the cables carefully around the battery to ensure the case closes flush. Screw the back cover back on and attach your antennas or just use the magnets attached.
 
