@@ -45,7 +45,7 @@ Remove the rear cover to access the internal components. Be careful with the bat
 ![Internal View](internal-view.jpg)
 ![2.4ghz-connection](2.4ghz-connection.jpg)
 ![2.4ghz-connection](2.4ghzconnecton-1.jpg)
-
+![rf-connection](Rf-conection.jpg)
 ### Step 2: Case Modification
 1.  Mark three evenly spaced points on the top plastic rim of the T-Embed case.(I suggest keeping the 2.4ghz together to stop interference)
 2.  Drill holes sized to fit the SMA connectors (usually 6mm or 1/4").
