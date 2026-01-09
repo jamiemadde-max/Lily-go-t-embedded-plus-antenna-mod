@@ -70,7 +70,7 @@ the (1) 2.4 connection is under the silver esp32 casing and the other connection
 
 
 
-*note only the rf is labeled so reconnecting is a breeze
+*note the rf is labeled so reconnecting is a breeze
 
 
 ### Step 4: Reassembly
