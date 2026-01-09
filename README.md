@@ -55,7 +55,9 @@ Remove the rear cover to access the internal components. Be careful with the bat
 2.  **Wi-Fi/BT (2.4GHz):** Locate the ESP32 U.FL connector on the main PCB. Disconnect the stock internal flex antenna and connect the new pigtail.
 3.  **Mounting:** Secure the SMA connectors to the drilled holes using the nuts and washers provided with your pigtails.
 ![2.4ghz-connection](2.4ghz-connection.jpg)
+the rf connections at the very bottom
 ![2.4ghz-connection](2.4ghzconnecton-1.jpg)
+the 1 2.4 connection is under the silver esp32 casing and the second connection is on the nrf board
 ![rf-connection](Rf-conection.jpg)
 
 *note only the rf is labeled so reconnecting is a breeze
